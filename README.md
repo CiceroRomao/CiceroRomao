@@ -1,12 +1,13 @@
-# Cícero Romão Ribeiro Pereira Filho
+
+<h1 align="center"><i>Cícero Romão Ribeiro Pereira Filho</i></h1>
+
+<div>
 <img align="right" width="250px" style="margin-top:-20px" src="https://user-images.githubusercontent.com/73559446/169382212-602941ca-fa7e-4404-90ad-1a37198fa1bd.png">
-
-
-
-<img align="right" width="250px" style="padding-left:-50px" src="https://github.com/CiceroRomao/CiceroRomao/blob/main/ryu.gif">
-<div >
-Tecnologias e Ferramentas:
+<h1><i>Sobre mim</i></h1>
 </div>
+
+
+## 🖥️ *Tecnologias e Ferramentas:*
 
 <div margin="10px">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" style = "height: 50px" style = "float:left">
@@ -20,11 +21,12 @@ Tecnologias e Ferramentas:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style = "height: 50px; float:left">
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style = "height: 50px; float:left">
-</div>
-  
-<div margin="10px">
+
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" style = "height:50px; float:left">
 
+  </div>
+  <div margin="10px">
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" style = "height: 50px; float:left">
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" style = "height: 50px; float:left">
@@ -34,22 +36,32 @@ Tecnologias e Ferramentas:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style = "height: 50px; float:left">
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style = "height: 50px; float:left">
-</div>
 
- <div margin="10px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style = "height: 50px; float:left">
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style = "height: 50px; float:left">
 </div>
 
-![Snake animation](https://github.com/lucasemanuelms/lucasemanuelms/blob/output/github-contribution-grid-snake.svg)
+---
+
+<p align="center">
+<img src="https://github.com/lucasemanuelms/lucasemanuelms/blob/output/github-contribution-grid-snake.svg" text-align="center">
+</p>
 
 ##
 <p align="center">
-<a href="https://github.com/jeniblodev">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ciceroromao&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jeniblodev&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/CiceroRomao">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CiceroRomao&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CiceroRomao&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
-<img align="right" width="250px" style="margin-top:-20px" src="https://github.com/CiceroRomao/CiceroRomao/blob/main/pikachu.gif">                                                                                                                                                                                                                                                                                                                                                                      
+<div align="center">
+
+<img width="250px" src="https://thumbs.gfycat.com/AccurateMealyAntarcticfurseal.webp" style="transform:scaleX(-1)">
+
+<img width="100px" src="http://pa1.narvii.com/6344/5af4eb29d3547fe1da3d12502c15880162126e36_00.gif">
+
+<img width="250px" src="https://thumbs.gfycat.com/AccurateMealyAntarcticfurseal.webp">
+
+</div>
