@@ -3,7 +3,7 @@
 
 
 
-<img align="right" width="250px" style="margin-top:-20px" src="https://github.com/CiceroRomao/CiceroRomao/blob/main/ryu.gif">
+<img align="right" width="250px" style="padding-left:-50px" src="https://github.com/CiceroRomao/CiceroRomao/blob/main/ryu.gif">
 <div >
 Tecnologias e Ferramentas:
 </div>
