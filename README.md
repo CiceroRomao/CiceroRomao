@@ -3,8 +3,17 @@
 
 <div>
 <img align="right" width="250px" style="margin-top:-20px" src="https://user-images.githubusercontent.com/73559446/169382212-602941ca-fa7e-4404-90ad-1a37198fa1bd.png">
-<h1><i>Sobre mim</i></h1>
+<h2><i>Sobre mim</i></h2>
+
+```
+  
+O começo na área se deu em 2015 desde então atuo como desenvolvedor de software e
+busco aprender sobra analise de bancos de dados, intusiasta na área de cybersecurity.
+  
+```
+  
 </div>
+
 
 
 ## 🖥️ *Tecnologias e Ferramentas:*
@@ -48,7 +57,7 @@
 <img src="https://github.com/lucasemanuelms/lucasemanuelms/blob/output/github-contribution-grid-snake.svg" text-align="center">
 </p>
 
-##
+
 <p align="center">
 <a href="https://github.com/CiceroRomao">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CiceroRomao&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -58,10 +67,10 @@
 
 <div align="center">
 
-<img width="250px" src="https://thumbs.gfycat.com/AccurateMealyAntarcticfurseal.webp" style="transform:scaleX(-1)">
-
-<img width="100px" src="http://pa1.narvii.com/6344/5af4eb29d3547fe1da3d12502c15880162126e36_00.gif">
-
-<img width="250px" src="https://thumbs.gfycat.com/AccurateMealyAntarcticfurseal.webp">
+<img width="150px" src="https://github.com/CiceroRomao/CiceroRomao/blob/main/jolts/jolt.webp">
+<img width="150px" src="https://github.com/CiceroRomao/CiceroRomao/blob/main/jolts/jolt1.webp">
+<img width="150px" src="https://raw.githubusercontent.com/CiceroRomao/CiceroRomao/main/jolts/jolt2.webp">
+<img width="150px" src="https://github.com/CiceroRomao/CiceroRomao/blob/main/jolts/jolt3.webp">
+<img width="150px" src="https://raw.githubusercontent.com/CiceroRomao/CiceroRomao/main/jolts/jolt4.webp">
 
 </div>
