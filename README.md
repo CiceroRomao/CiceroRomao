@@ -54,15 +54,18 @@ busco aprender sobra analise de bancos de dados, intusiasta na área de cybersec
 ---
 
 <p align="center">
-<img src="https://github.com/lucasemanuelms/lucasemanuelms/blob/output/github-contribution-grid-snake.svg" text-align="center">
-</p>
-
-
-<p align="center">
 <a href="https://github.com/CiceroRomao">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CiceroRomao&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CiceroRomao&layout=compact&langs_count=8&theme=algolia"/>
 </a>
+</p>
+
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CiceroRomao&amp;theme=dracula">
+</div>
+
+<p align="center">
+<img src="https://github.com/lucasemanuelms/lucasemanuelms/blob/output/github-contribution-grid-snake.svg" text-align="center">
 </p>
 
 <div align="center">
