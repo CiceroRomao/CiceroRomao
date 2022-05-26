@@ -1,24 +1,23 @@
 
 <h1 align="center"><i>Cícero Romão Ribeiro Pereira Filho</i></h1>
 
-<div>
-<img align="right" width="250px" style="margin-top:-20px" src="https://user-images.githubusercontent.com/73559446/169382212-602941ca-fa7e-4404-90ad-1a37198fa1bd.png">
-<h2><i>Sobre mim</i></h2>
+
 
 ```
   
 O começo na área se deu em 2015 desde então atuo como desenvolvedor de software e
-busco aprender sobra analise de bancos de dados, intusiasta na área de cybersecurity.
+busco aprender sobra análise de bancos de dados, entusiasta na área de cybersecurity.
   
 ```
   
 </div>
 
 
-
-## 🖥️ *Tecnologias e Ferramentas:*
-
-<div margin="10px">
+<h2 align="center">
+🖥️ Tecnologias e Ferramentas
+</h2>
+  
+<div align="center" margin="10px">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" style = "height: 50px" style = "float:left">
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="height:50px; float:left">
@@ -34,7 +33,7 @@ busco aprender sobra analise de bancos de dados, intusiasta na área de cybersec
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" style = "height:50px; float:left">
 
   </div>
-  <div margin="10px">
+  <div align="center" margin="10px">
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" style = "height: 50px; float:left">
 
